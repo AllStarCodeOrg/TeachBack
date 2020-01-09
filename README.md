@@ -3,7 +3,6 @@
 ### Task
 Pick any relevant basic programming topic (variables, conditionals, loops, arrays, p5 animation, CSS, DOM, etc.) and create a **3-5 minute** lesson. Lead Instructor applicants will mock-teach their lesson to the interviewers. 
 
-
 ### Rubric
 - **PREPAREDNESS**
     - An ideal instructor's lesson plan is well-thought-out, organized, and polished.
@@ -17,6 +16,9 @@ Pick any relevant basic programming topic (variables, conditionals, loops, array
 - **MODALITY**
     - An ideal instructor is able to incorporate multiple learning modes into a lesson (auditory, visual, kinesthetic).
     - For example, an instructor can verbalize how arrays work (auditory), while having students arrange themselves in a line as a way to simulate elements in an array (kinesthetic).
+
+- **TIME MANAGEMENT**
+    - An ideal instructor is able to adhere to the alloted **3-5 minutes** timeslot.
 
 - **TECHNICAL PROFICIENCY**
     - Instructors will be asked questions commonly raised in the SI classroom. They should be able to answer these moderate questions appropriately.
