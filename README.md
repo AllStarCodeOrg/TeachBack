@@ -27,4 +27,4 @@ Pick any relevant basic programming topic (variables, conditionals, loops, array
     - Note: If you are asked a question you don't know the answer to, say so! Situations as such will happen when you teach, and it's alright to say "I don't know, ***yet***." 
 
 - **ATTITUDE**
-    - While this is an interview and we understand that interviews can be nerve-wrecking, **BE YOURSELF**! Have fun with your lesson plan. *Your students will only be passionate of your lesson if **YOU** are passionate teaching it~* 
+    - While this is an interview and we understand that interviews can be nerve-wrecking, **BE YOURSELF**! Have fun with your lesson plan. *Your students will only be passionate about your lesson if **YOU** are passionate teaching it~* 
