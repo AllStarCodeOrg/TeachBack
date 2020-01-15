@@ -3,7 +3,7 @@
 **ONLY APPLICABLE TO LEAD INSTRUCTOR APPLICANTS**
 
 ### Task
-Pick any relevant basic programming topic (variables, conditionals, loops, arrays, p5 animation, CSS, DOM, etc.) and create a **3-5 minute** lesson. Lead Instructor applicants will mock-teach their lesson to the interviewers. 
+Pick any relevant basic programming topic (variables, conditionals, loops, arrays, p5 animation, CSS, DOM, etc.) and create a **3-5 minute** lesson. Lead Instructor applicants will mock-teach their lessons during the in-person interview. 
 
 ### Rubric
 - **PREPAREDNESS**
